@@ -9,4 +9,5 @@ Steps to run the assembly game
 4) Click emulate
 
 ![Game Screenshot](https://i.ibb.co/DQSCRfk/Capture.png)
+
 "# Assembly-XO-Game" 
